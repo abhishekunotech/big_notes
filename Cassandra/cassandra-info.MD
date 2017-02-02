@@ -3,7 +3,7 @@
 ### Basics
 
 - **Project Name** : Apache Cassandra
-- **Version** : Apache Cassandra 3.9; Latest Stable version - Apache Cassandra 3.0[Apache Cassandra]
+- **Version** : Apache Cassandra 3.9; Latest Stable version - Apache Cassandra 3.0[cassandra][]
 - **License** :
 - **Released on** :
 
@@ -65,4 +65,4 @@
 
 ### References
 
-[Apache Cassandra]: http://cassandra.apache.org/download/
+[Cassandra]: <http://cassandra.apache.org/download/> "Apache Cassandra Website"
