@@ -1,17 +1,17 @@
-## BigNotes on Cassandra
+## **BigNotes on Cassandra**
 
 ### Basics
 
-- Project Name 
-- Version 
-- License
-- Released on
+- **Project Name** : Apache Cassandra
+- **Version** : Apache Cassandra 3.9; Latest Stable version - Apache Cassandra 3.0[1^] [1]
+- **License** :
+- **Released on** :
 
 ### Organizations and Backers
 
-- Organization that made it
-- Backed by known companies / individuals
-- Size of the community
+- **Organization that made it** :
+- **Backed by known companies / individuals** :
+- **Size of the community** :
 
 ### State of the project
 
@@ -62,3 +62,8 @@
 - Other projects by the creators  
 - How to install  
 - Hello world
+
+### References
+
+[1]: http://cassandra.apache.org/download/
+[1^]: http://cassandra.apache.org/download/
